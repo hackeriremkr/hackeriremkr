@@ -1,4 +1,4 @@
-# <h1 align="center">🛡️ HAJUN PARK (hackeriremkr)</h1>
+# <h1 align="center">🛡️ HAJUN PARK (s1yx0r)</h1>
 <p align="center">
   <b>정보로 사람을 이롭게 — 보안과 개발을 잇는 풀스택 리서처</b><br/>
   Junior White Hacker & Full-stack Developer · Team Jamong Leader
