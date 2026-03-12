@@ -72,7 +72,7 @@
 ## 🛡️ 대외 활동 및 보안 성과 (Security Researcher)
 
 ### **Vulnerability Research**
-- **국가사이버안보센터(NCSC)**: K사 웹사이트 IDOR 취약점 제보
+- **국가사이버안보센터(NCSC)**: K사 웹사이트 IDOR 취약점 제보, S사 웹사이트 IDOR 취약점 제보
 - **KISA(한국인터넷진흥원)**: M사 학습지원사이트 IDOR 취약점 제보
 
 ### **Leadership & Public**
