@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>보안과 개발을 잇다 — 박하준입니다.</b><br/>
-  보안 리서처로서 쌓아온 분석력으로, 현재는 견고한 풀스택 개발자의 자취를 밟고 있습니다.
+  보안 리서처로 살아오다가 그냥 현타가 와서 풀스택으로전향햇습니다감사합니다<br>
+  취미로 가끔 CTF에 출몰함ㅁ디ㅏ
 </p>
 
 <p align="center">
@@ -42,7 +43,9 @@
 ## 🏆 수상 경력 (Awards)
 
 ### **2026**
+- **대상** | 제2회청소년국제학술컨퍼런스대회 (제주특별도지사상 | e-모빌리티엑스포 부대행사)
 - **최우수상** | 카카오 AI 루키캠프 (카카오 정신아 의장상)
+- **최우수상** | 제6회 IT경시대회
 
 ### **2025**
 - **최우수상** | 충북대학교 AI 메이커톤 경진대회 (중·고·대학 통합 2위)
@@ -94,7 +97,8 @@
 
 - **Languages:** `JavaScript/TypeScript`, `Python`, `SQL`, `HTML/CSS`
 - **Backend:** `Node.js`, `Express`, `Prisma`, `PostgreSQL`
-- **Security:** `Burp Suite`, `OWASP ZAP`, `Nmap`, `Wireshark`, `Digital Forensics`
+- **Server / Cloud** `Oracle Cloud`, `Ubuntu`, `Kali Linux`
+- **Security:** `Burp Suite`, `OWASP ZAP`, `Nmap`, `Wireshark`, `Digital Forensics`, `Web H@cking` and more...?
 
 ---
 
@@ -107,6 +111,6 @@
 ---
 
 <p align="center">
-  <b>지속 가능한 보안과 혁신적인 사용자 경험을 고민합니다.</b><br/>
+  <b>지속가능한 보안을 지향합니다.</b><br/>
   © 2026 Hajun Park. All rights reserved.
 </p>
